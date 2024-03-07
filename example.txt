@@ -1,1 +1,2 @@
---//github 101 örnek file
+--//github 101 örnek file 
+ex. for modification
