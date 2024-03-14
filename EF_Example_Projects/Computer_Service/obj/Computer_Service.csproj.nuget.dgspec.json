@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\NorthWnd_Homework\\Computer_Service\\Computer_Service.csproj": {}
+    "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\Computer_Service\\Computer_Service.csproj": {}
   },
   "projects": {
-    "D:\\c#\\NorthWnd_Homework\\Computer_Service\\Computer_Service.csproj": {
+    "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\Computer_Service\\Computer_Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\NorthWnd_Homework\\Computer_Service\\Computer_Service.csproj",
+        "projectUniqueName": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\Computer_Service\\Computer_Service.csproj",
         "projectName": "Computer_Service",
-        "projectPath": "D:\\c#\\NorthWnd_Homework\\Computer_Service\\Computer_Service.csproj",
+        "projectPath": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\Computer_Service\\Computer_Service.csproj",
         "packagesPath": "C:\\Users\\ayten\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\NorthWnd_Homework\\Computer_Service\\obj\\",
+        "outputPath": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\Computer_Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayten\\AppData\\Roaming\\NuGet\\NuGet.Config",

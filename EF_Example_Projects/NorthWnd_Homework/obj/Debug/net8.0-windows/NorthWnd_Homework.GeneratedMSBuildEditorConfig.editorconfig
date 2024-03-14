@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NorthWnd_Homework
-build_property.ProjectDir = D:\c#\NorthWnd_Homework\NorthWnd_Homework\
+build_property.ProjectDir = C:\Users\ayten\OneDrive\Masaüstü\GitHub\EF_Example_Projects\NorthWnd_Homework\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

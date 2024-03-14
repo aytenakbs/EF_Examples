@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\NorthWnd_Homework\\NorthWnd_Homework\\NorthWnd_Homework.csproj": {}
+    "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\NorthWnd_Homework\\NorthWnd_Homework.csproj": {}
   },
   "projects": {
-    "D:\\c#\\NorthWnd_Homework\\NorthWnd_Homework\\NorthWnd_Homework.csproj": {
+    "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\NorthWnd_Homework\\NorthWnd_Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\NorthWnd_Homework\\NorthWnd_Homework\\NorthWnd_Homework.csproj",
+        "projectUniqueName": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\NorthWnd_Homework\\NorthWnd_Homework.csproj",
         "projectName": "NorthWnd_Homework",
-        "projectPath": "D:\\c#\\NorthWnd_Homework\\NorthWnd_Homework\\NorthWnd_Homework.csproj",
+        "projectPath": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\NorthWnd_Homework\\NorthWnd_Homework.csproj",
         "packagesPath": "C:\\Users\\ayten\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\NorthWnd_Homework\\NorthWnd_Homework\\obj\\",
+        "outputPath": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\NorthWnd_Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayten\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QCgBUKWCxHjt4MH6uC6kDVzJVxjKV0x+/FmZASCFvJDr+DqP4S18nuXJ2aIb83j7CZv13aZIztnlpmQPH/He5g==",
+  "dgSpecHash": "r+8zr+5k+EBH9H9pCBDOoJAmBsC+93I5LnwxmhHCi0Ta0rV4KG1fNwEZHBrTLiQjwVNkSez68Ui+OEMyI6eXQQ==",
   "success": true,
-  "projectFilePath": "D:\\c#\\NorthWnd_Homework\\NorthWnd_Homework\\NorthWnd_Homework.csproj",
+  "projectFilePath": "C:\\Users\\ayten\\OneDrive\\Masaüstü\\GitHub\\EF_Example_Projects\\NorthWnd_Homework\\NorthWnd_Homework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayten\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ayten\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
